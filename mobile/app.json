@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Mechanical Shop",
+    "slug": "mechanical-shop",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mechanicalshop.app"
+    },
+    "android": {
+      "package": "com.mechanicalshop.app"
+    },
+    "scheme": "mechanicalshop",
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ]
+  }
+}
